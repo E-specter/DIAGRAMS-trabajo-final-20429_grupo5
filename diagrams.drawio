@@ -244,7 +244,7 @@
           <mxGeometry y="34" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="vrDfNK2nrc3gdXkp-nxU-158" value="Plaza" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="vrDfNK2nrc3gdXkp-nxU-88">
-          <mxGeometry x="840" y="800" width="160" height="216" as="geometry" />
+          <mxGeometry x="780" y="970" width="160" height="216" as="geometry" />
         </mxCell>
         <mxCell id="vrDfNK2nrc3gdXkp-nxU-159" value="- numero: short" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="vrDfNK2nrc3gdXkp-nxU-158">
           <mxGeometry y="26" width="160" height="26" as="geometry" />
